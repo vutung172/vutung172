@@ -13,7 +13,9 @@
 - 👯 I’m looking to collaborate with other developer in any languages
 - 🥅 2024 goals: 
     ・Become BrSE: study skill in 要件定義・
+        
     ・
+    <img width="40%" align="right" alt="Vmodel" src="https://i0.wp.com/kysubrse.com/wp-content/uploads/2023/11/V-model.webp?resize=768%2C432&ssl=1" />
 - ⚡ Fun fact: I love to make photos and videos
 
 <!-- coding boy -->
