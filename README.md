@@ -19,9 +19,9 @@
     ・日本語：JLPT-N1・BJT-J2
     ・AWS certification: cloud practitioner ->  solutions architect -> data engineer
     <div align="right">
-    <img width="30%" align="right" alt="Vmodel" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" />
-    <img width="30%" align="right" alt="Vmodel" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" />
-    <img width="30%" align="right" alt="Vmodel" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Data-Engineer-Associate_badge_300x300.a231ff0ff32a28adf061d3f7fa36564964b4a4b5.png" />
+    <img width="100px" align="center" alt="Vmodel" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" />
+    <img width="100px" align="center" alt="Vmodel" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" />
+    <img width="100px" align="center" alt="Vmodel" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Data-Engineer-Associate_badge_300x300.a231ff0ff32a28adf061d3f7fa36564964b4a4b5.png" />
     </div>
 
     
