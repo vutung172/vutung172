@@ -5,12 +5,8 @@
 <a href="tung.vt172@gmail.com" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-</br>
-
 ### 🎯 I'm hardly practicing to become Full-Stack Web developer, Data Analyst, BrSE in Japanese.
 ### 🗻 I'm also a Life-time Challenger, accepting challenges is the best and only way to become a Titan.
-
-
 
 ### What I'm focusing on 👨‍💻
 - 🌱 Currently learning Java programming, Spring Framework, AWS cloud service 😎
