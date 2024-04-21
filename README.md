@@ -10,19 +10,21 @@
 
 ### What I'm focusing on 👨‍💻
 - 🌱 Currently learning Java programming, Spring Framework, AWS cloud service 😎
-- 👯 I’m looking to collaborate with other developer in any languages
-- 🥅 2024 goals: 
+
+- 👯 I'm pleasure to connect with others to discus anythings from technologies, lifestyles and also finances
+
+- ⛳ 2024 targets: 
     <img width="50%" align="right" alt="Vmodel" src="https://i0.wp.com/kysubrse.com/wp-content/uploads/2023/11/V-model.webp?resize=768%2C432&ssl=1" />
     </br>
-    :one: Become BrSE: </br>
+    1️⃣  Become BrSE: </br>
         →　study test skill for コンポーネントテスト・結合テスト・受入テ </br>
         →　study design skills for 詳細設計・基本設計・要件定義</br>
 
 
-    :two: 日本語：JLPT-N1・BJT-J2 </br>
+    2️⃣  日本語：JLPT-N1・BJT-J2 </br>
 
 
-    :three: AWS certification: cloud practitioner ->  solutions architect -> data engineer </br>
+    3️⃣  AWS certification: cloud practitioner ->  solutions architect -> data engineer </br>
     <div width="90%" align="center">
     <img width="100px" align="center" alt="Vmodel" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" />
     <img width="100px" align="center" alt="Vmodel" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" />
@@ -30,7 +32,7 @@
     </div>
     </br>
 
-- ⚡ Fun fact: I love to make things, travel, read instruction of everything
+- ⚡ Fun fact: I love to make things, travel, read instruction of everything, and communicate with others to share my understanding
 
 
 <!-- programming language -->
