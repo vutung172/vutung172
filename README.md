@@ -1,6 +1,7 @@
 ## Hi there 👋, My name's Tung
 
-### I'm a Full-Stack Web developer, BrSE in Japanese, and Life-time Challenger
+### I'm hardly practicing to become Full-Stack Web developer, Data Analyst, BrSE in Japanese.
+### I'm also a Life-time Challenger, accepting challenges is the best and only way to become a Titan.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/t%C3%B9ng-v%C5%A9-5968361bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -29,10 +30,8 @@
     </div>
     </br>
 
-- ⚡ Fun fact: I love to make photos and videos
+- ⚡ Fun fact: I love to make things, travel, read instruction of everything
 
-<!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src=" " />
 
 <!-- programming language -->
 
@@ -47,3 +46,5 @@
 [![](https://skillicons.dev/icons?i=git,github,vscode,idea,postman)]()
 
 <br/>
+
+### LET'S CONNECT TOGETHER!!!
